@@ -3,7 +3,7 @@
  <body>
         
         <h1>
-            Test PHP
+            Test PHP Laravel
         </h1>
     
     <?php
