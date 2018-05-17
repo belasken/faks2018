@@ -120,7 +120,10 @@ return [
     */
 
     'providers' => [
-
+/*
+ * Moji provideri
+ */
+        JeroenNoten\LaravelAdminLte\ServiceProvider::class,
         /*
          * Laravel Framework Service Providers...
          */
