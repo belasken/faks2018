@@ -1,3 +1,9 @@
 kreiranje laravel projekta
 composer create-project --prefer-dist laravel/laravel blog
 
+pokretanje servera
+php artisan serve
+http://127.0.0.1:8000
+
+route projekta
+$ php artisan route:list
